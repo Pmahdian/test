@@ -6,5 +6,5 @@ else:
     print('odd')
 
 for i in range(x):
-    print('hi')    
+    print('bye')    
     
